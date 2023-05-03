@@ -3338,4 +3338,15 @@ input, select, textarea {
 				height: 34px;
 			}
 
+		/* imagecrop */
+
+    .crop img {
+        width: 400px;
+        height: 300px;
+        margin: -75px 0 0 -100px;
+    }
+
+
+
+
 	}
